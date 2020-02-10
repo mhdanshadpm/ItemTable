@@ -1,0 +1,25 @@
+.Row{
+    width: 100%;
+    border: 1px solid #a7a4a4;
+    border-radius: 25px;
+    padding: 5px;
+    margin: auto;
+}
+.Row input {
+    padding: 5px;
+    border: 0;
+    margin-left: 5px;
+    outline: none;
+}
+.Row select {
+    padding: 4px;
+    border: 0;
+    margin-left: 5px;
+    outline: none;
+}
+.Row button {
+    border:none;
+    outline: none;
+    cursor: pointer;
+    background-color: transparent;
+}
